@@ -1,8 +1,7 @@
 # Technical Articles on JavaScript written by Dr. Derek Austin
 ## Use these "Friend Links" to read all of my articles for free
-### Medium has a paywall model, which means non-members can only view a certain number of articles.
-#### Using these links, you can access any of my technical articles for free.
-
+### Medium has a paywall model, which means non-members can only view a few articles.
+### Using these links, you can access any of my technical articles for free.
 1. [What Is Lifting State Up in JavaScript?](https://medium.com/better-programming/what-is-lifting-state-up-in-javascript-74fb12c6dd71?source=friends_link&sk=cec64ce34b07e3287d4998d435d0c42b)
 (Curated by Medium in "JavaScript" and "Programming")
  by Dr. Derek Austin in Better Programming
@@ -28,3 +27,4 @@ by Dr. Derek Austin in JavaScript in Plain English
 by Dr. Derek Austin in JavaScript in Plain English
 12. [2019 Guide: How to Use React Hooks to Create a Toggle Switch or Counter](https://blog.usejournal.com/2019-guide-how-to-use-react-hooks-to-create-a-toggle-switch-or-counter-dd9f5cd7062a?source=friends_link&sk=15da0f12c35552f47455318c72bdf7eb)
 by Dr. Derek Austin in Noteworthy - The Journal Blog
+#### Like what you see? Connect with me on LinkedIn: [linkedin.com/in/derek-austin](https://linkedin.com/in/derek-austin)
