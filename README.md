@@ -19,8 +19,6 @@ by Dr. Derek Austin in Better Programming
 by Dr. Derek Austin in Better Programming
 8. [Animate an Emoji Penguin in React](https://blog.usejournal.com/animate-an-emoji-penguin-in-react-c697e05071e5?source=friends_link&sk=bb57fe6d8597e17beff415bb649daa4e)
 by Dr. Derek Austin in Noteworthy - The Journal Blog
-9. [30 Articles in 30 Days - Start a React.js Career by Blogging](https://medium.com/changing-careers/30-articles-in-30-days-start-a-react-js-career-on-medium-d6439da2417e)
-by Dr. Derek Austin in Changing Careers
 10. [Make a modern React site in 2 minutes using Code Sandbox + Stackbit](https://medium.com/javascript-in-plain-english/make-a-modern-react-site-in-2-min-using-code-sandbox-stackbit-18e83c296073?source=friends_link&sk=6d4defb10b1a4a116ded5868803c12a2)
 by Dr. Derek Austin in JavaScript in Plain English
 11. [How to add Dark Mode to a React App](https://medium.com/javascript-in-plain-english/dark-mode-for-any-react-app-2019-part-1-of-a-series-on-day-night-toggles-b320ece903f7?source=friends_link&sk=db2c2507a8873ff3e753b928278472b3)
@@ -28,3 +26,9 @@ by Dr. Derek Austin in JavaScript in Plain English
 12. [2019 Guide: How to Use React Hooks to Create a Toggle Switch or Counter](https://blog.usejournal.com/2019-guide-how-to-use-react-hooks-to-create-a-toggle-switch-or-counter-dd9f5cd7062a?source=friends_link&sk=15da0f12c35552f47455318c72bdf7eb)
 by Dr. Derek Austin in Noteworthy - The Journal Blog
 #### Like what you see? Connect with me on LinkedIn: [linkedin.com/in/derek-austin](https://linkedin.com/in/derek-austin)
+
+# Other Medium articles written by Dr. Derek Austin
+2. [30 Articles in 30 Days - Start a React.js Career by Blogging](https://medium.com/changing-careers/30-articles-in-30-days-start-a-react-js-career-on-medium-d6439da2417e)
+by Dr. Derek Austin in Changing Careers
+3. [I'm Making Myself Publish Every Day](https://medium.com/@derek_develops/im-making-myself-publish-every-day-ec29c00ad2c8?source=friends_link&sk=b9e3a4355e9b7436fae6ae808763cc45)
+1. [The Art of Waking Up Later Than Everyone Else](https://medium.com/the-ascent/the-art-of-waking-up-later-than-everyone-else-d9b04c60f599?source=friends_link&sk=d4fd49fa8d45630079b3de19b04fd48b)
