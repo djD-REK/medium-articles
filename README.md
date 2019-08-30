@@ -4,7 +4,7 @@
 ### Using these links, you can access any of my technical articles for free.
 1. [What Is Lifting State Up in JavaScript?](https://medium.com/better-programming/what-is-lifting-state-up-in-javascript-74fb12c6dd71?source=friends_link&sk=cec64ce34b07e3287d4998d435d0c42b)  
  by Dr. Derek Austin in Better Programming  
- (Curated by Medium in the topics "JavaScript" and "Programming")  
+ **(Curated by Medium in the topics "JavaScript" and "Programming")**
 2. [What Are JavaScript Programming Paradigms?](https://medium.com/javascript-in-plain-english/what-are-javascript-programming-paradigms-3ef0f576dfdb?source=friends_link&sk=2a4efe7351b328c54e45e6bc4d6ca20b)  
 by Dr. Derek Austin in JavaScript in Plain English
 3. [ES2019 made error checking easier in JavaScript](https://medium.com/javascript-in-plain-english/es2019-made-error-checking-easier-in-javascript-9386e22d5794?source=friends_link&sk=717c90bca60d6c65b1d61f57c24ce1ae)  
