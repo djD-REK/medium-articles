@@ -3,8 +3,8 @@
 ### Medium has a paywall model, which means non-members can only view a few articles.
 ### Using these links, you can access any of my technical articles for free.
 1. [What Is Lifting State Up in JavaScript?](https://medium.com/better-programming/what-is-lifting-state-up-in-javascript-74fb12c6dd71?source=friends_link&sk=cec64ce34b07e3287d4998d435d0c42b)  
- by Dr. Derek Austin in Better Programming
- (Curated by Medium in "JavaScript" and "Programming")  
+ by Dr. Derek Austin in Better Programming  
+ (Curated by Medium in the topics "JavaScript" and "Programming")  
 2. [What Are JavaScript Programming Paradigms?](https://medium.com/javascript-in-plain-english/what-are-javascript-programming-paradigms-3ef0f576dfdb?source=friends_link&sk=2a4efe7351b328c54e45e6bc4d6ca20b)  
 by Dr. Derek Austin in JavaScript in Plain English
 3. [ES2019 made error checking easier in JavaScript](https://medium.com/javascript-in-plain-english/es2019-made-error-checking-easier-in-javascript-9386e22d5794?source=friends_link&sk=717c90bca60d6c65b1d61f57c24ce1ae)  
@@ -31,4 +31,6 @@ by Dr. Derek Austin in Noteworthy - The Journal Blog
 1. [30 Articles in 30 Days - Start a React.js Career by Blogging](https://medium.com/changing-careers/30-articles-in-30-days-start-a-react-js-career-on-medium-d6439da2417e)  
 by Dr. Derek Austin in Changing Careers
 2. [I'm Making Myself Publish Every Day](https://medium.com/@derek_develops/im-making-myself-publish-every-day-ec29c00ad2c8?source=friends_link&sk=b9e3a4355e9b7436fae6ae808763cc45)  
+by Dr. Derek Austin (submitted to Real Life Resilience)
 3. [The Art of Waking Up Later Than Everyone Else](https://medium.com/the-ascent/the-art-of-waking-up-later-than-everyone-else-d9b04c60f599?source=friends_link&sk=d4fd49fa8d45630079b3de19b04fd48b)  
+by Dr. Derek Austin in The Ascent
