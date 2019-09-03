@@ -6,6 +6,8 @@
 
 ### Using these links, you can access any of my technical articles for free.
 
+1. [How to Trim Strings in JavaScript (ES2019)](https://medium.com/coding-in-simple-english/how-to-trim-strings-in-javascript-es2019-3823070c9316)  
+   by Dr. Derek Austin in Coding in Simple English
 1. [Making Sense of == vs. === in JavaScript](https://medium.com/better-programming/making-sense-of-vs-in-javascript-f9dbbc6352e3?source=friends_link&sk=41aba548525db38aa78ccf37c3821b9e)  
    by Dr. Derek Austin in Better Programming
 1. [What Is Lifting State Up in JavaScript?](https://medium.com/better-programming/what-is-lifting-state-up-in-javascript-74fb12c6dd71?source=friends_link&sk=cec64ce34b07e3287d4998d435d0c42b)  
