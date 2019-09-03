@@ -6,9 +6,10 @@
 
 ### Using these links, you can access any of my technical articles for free.
 
-1. [Making Sense of == vs. === in JavaScript](https://medium.com/better-programming/making-sense-of-vs-in-javascript-f9dbbc6352e3?source=friends_link&sk=41aba548525db38aa78ccf37c3821b9e)
+1. [Making Sense of == vs. === in JavaScript](https://medium.com/better-programming/making-sense-of-vs-in-javascript-f9dbbc6352e3?source=friends_link&sk=41aba548525db38aa78ccf37c3821b9e)  
    by Dr. Derek Austin in Better Programming
-1. [What Is Lifting State Up in JavaScript?](https://medium.com/better-programming/what-is-lifting-state-up-in-javascript-74fb12c6dd71?source=friends_link&sk=cec64ce34b07e3287d4998d435d0c42b) **(Curated by Medium in the topics "JavaScript" and "Programming")**
+1. [What Is Lifting State Up in JavaScript?](https://medium.com/better-programming/what-is-lifting-state-up-in-javascript-74fb12c6dd71?source=friends_link&sk=cec64ce34b07e3287d4998d435d0c42b)  
+   **(Curated by Medium in the topics "JavaScript" and "Programming")**
    by Dr. Derek Austin in Better Programming
 1. [What Are JavaScript Programming Paradigms?](https://medium.com/javascript-in-plain-english/what-are-javascript-programming-paradigms-3ef0f576dfdb?source=friends_link&sk=2a4efe7351b328c54e45e6bc4d6ca20b)  
    by Dr. Derek Austin in JavaScript in Plain English
