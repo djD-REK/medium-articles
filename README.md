@@ -6,8 +6,11 @@
 
 ### Using these links, you can access any of my technical articles for free.
 
+1. [Compiling vs. Polyfilling in JavaScript](https://medium.com/better-programming/compiling-vs-polyfilling-in-javascript-6bbc5707a253?source=friends_link&sk=ec39c1e6c5427948cccd9ad7bfb30d3b)  
+   **(Curated by Medium in the topics "JavaScript" and "Programming")**  
+   by Dr. Derek Austin in Better Programming
 1. [How to Trim Strings in JavaScript (ES2019)](https://medium.com/coding-in-simple-english/how-to-trim-strings-in-javascript-es2019-3823070c9316)  
-   **(Curated by Medium in the topics "JavaScript")**  
+   **(Curated by Medium in the topic "JavaScript")**  
    by Dr. Derek Austin in Coding in Simple English
 1. [Making Sense of == vs. === in JavaScript](https://medium.com/better-programming/making-sense-of-vs-in-javascript-f9dbbc6352e3?source=friends_link&sk=41aba548525db38aa78ccf37c3821b9e)  
    **(Curated by Medium in the topics "JavaScript" and "Programming")**  
