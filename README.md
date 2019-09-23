@@ -92,11 +92,11 @@
 
 # Non-technical articles written by Dr. Derek Austin
 
-4. [What I Learned From Writing 30 Articles in 30 Days](https://medium.com/changing-careers/what-i-learned-from-writing-30-articles-in-30-days-2693a1d6519c?source=friends_link&sk=801f2c22d8a1c2d68b9d3360012ad0cb)  
+1. [What I Learned From Writing 30 Articles in 30 Days](https://medium.com/changing-careers/what-i-learned-from-writing-30-articles-in-30-days-2693a1d6519c?source=friends_link&sk=801f2c22d8a1c2d68b9d3360012ad0cb)  
    by Dr. Derek Austin in Changing Careers
-5. [The Art of Waking Up Later Than Everyone Else](https://medium.com/the-ascent/the-art-of-waking-up-later-than-everyone-else-d9b04c60f599?source=friends_link&sk=d4fd49fa8d45630079b3de19b04fd48b)  
+2. [The Art of Waking Up Later Than Everyone Else](https://medium.com/the-ascent/the-art-of-waking-up-later-than-everyone-else-d9b04c60f599?source=friends_link&sk=d4fd49fa8d45630079b3de19b04fd48b)  
    by Dr. Derek Austin in The Ascent
-6. [I'm Making Myself Publish Every Day](https://medium.com/@derek_develops/im-making-myself-publish-every-day-ec29c00ad2c8?source=friends_link&sk=b9e3a4355e9b7436fae6ae808763cc45)  
+3. [I'm Making Myself Publish Every Day](https://medium.com/@derek_develops/im-making-myself-publish-every-day-ec29c00ad2c8?source=friends_link&sk=b9e3a4355e9b7436fae6ae808763cc45)  
    by Dr. Derek Austin in Real Life Resilience
-7. [30 Articles in 30 Days - Start a React.js Career by Blogging](https://medium.com/changing-careers/30-articles-in-30-days-start-a-react-js-career-on-medium-d6439da2417e)  
+4. [30 Articles in 30 Days - Start a React.js Career by Blogging](https://medium.com/changing-careers/30-articles-in-30-days-start-a-react-js-career-on-medium-d6439da2417e)  
    by Dr. Derek Austin in Changing Careers
