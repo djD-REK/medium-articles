@@ -17,7 +17,7 @@
    **(Curated by Medium in the topics "JavaScript" and "Programming")**  
    by Dr. Derek Austin in JavaScript in Plain English
 5. [How to pad a string in JavaScript](https://medium.com/coding-at-dawn/how-to-pad-a-string-in-javascript-3ea75c67541c?source=friends_link&sk=639dc2b75f1ee1ff2fca90ba24dff3d1)  
-   **(Curated by Medium in the topics "JavaScript" and "Programming")**
+   **(Curated by Medium in the topics "JavaScript" and "Programming")**  
    by Dr. Derek Austin in Coding At Dawn
 6. [Does Babel compile backticks (``) to quotes and does that make JavaScript code faster?](https://medium.com/better-programming/does-babel-compile-backticks-to-quotes-and-does-that-make-javascript-code-faster-6fd21b089672?source=friends_link&sk=51fb8245ff09d1b9b4b0933f866715f4)  
    **(Curated by Medium in the topics "JavaScript" and "Programming")**  
