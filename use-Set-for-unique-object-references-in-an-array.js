@@ -2,6 +2,7 @@
 // object references, even with the same values:
 const someArray = [1]
 const otherArray = [1]
+
 // Different references even though both are [1]
 console.log(`Does someArray === someArray?`)
 console.log(`${someArray === someArray}`)
