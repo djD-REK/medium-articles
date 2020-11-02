@@ -6,6 +6,7 @@ const otherArray = [1]
 // Different references even though both are [1]
 console.log(`Does someArray === someArray?`)
 console.log(`${someArray === someArray}`)
+
 // Output: true because of same object reference
 console.log(`Does someArray === otherArray?`)
 console.log(`${someArray === otherArray}`)
