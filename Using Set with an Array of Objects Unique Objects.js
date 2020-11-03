@@ -1,3 +1,5 @@
+// Gist: How to Use Set with an Array of Objects To Find Unique Objects with Different Keys and Values (Not Object References)
+
 // This array contains 2 objects repeated twice each.
 const objectsArray = [
   { id: 1, emoji: "🎸" },
