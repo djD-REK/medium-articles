@@ -13,9 +13,9 @@ const uniqueObjectReferences = [...new Set(objectsArray)]
 console.log(`${uniqueObjectReferences.length} objects`)
 // Output: 4 objects
 
-/* To find the unique objects based on their contents,
- * we need to use JSON.stringify(), which turns the
- * object into a string, which will then work with Set. */
+/* To find the unique objects based on their contents,   *
+ * we need to use JSON.stringify() in order to turn each *
+ * object into a string, which will then work with Set.  */
 
 // First, make an array to hold the unique objects
 // and an empty Set for the unique JSON strings.

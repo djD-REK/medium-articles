@@ -10,7 +10,7 @@ for (const myNumber of myNumberArray) {
 // 2) Set using .forEach()
 const myNumberSetForEach = new Set()
 myNumberArray.forEach((aNumber) => {
-  myNumberSetForOf.add(aNumber)
+  myNumberSetForEach.add(aNumber)
 })
 // 3) Set using the Set() constructor with an iterable object
 // Note that arrays are iterable objects, but JavaScript objects are not
