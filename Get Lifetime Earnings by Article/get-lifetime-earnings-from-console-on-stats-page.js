@@ -1,3 +1,25 @@
+const WAIT_TIME_BEFORE_PROCESSING = 15 // increase if not reaching bottom of page
+const WAIT_TIME_BETWEEN_POSTS = 0.5 // set to 0 to not wait between posts & get results quicker
+const LOG_HOW_MANY_PENDING_MESSAGES = 10 // set to 0 to turn off time elapsed messages
+const LOG_PENDING_MESSAGE_EVERY_X_SECONDS = 10
+
+const timerArray = Array(LOG_HOW_MANY_PENDING_MESSAGES)
+  .fill(0)
+  .map((emptyValue, index) => index + 1)
+
+for (const timerCount of timerArray) {
+  const actualTimerCount = timerCount * LOG_PENDING_MESSAGE_EVERY_X_SECONDS
+  new Promise((resolve) => setTimeout(resolve, actualTimerCount * 1000)).then(
+    () => {
+      console.log(`${actualTimerCount} seconds have passed`)
+    }
+  )
+}
+
+console.log(
+  `Please wait ${WAIT_TIME_BEFORE_PROCESSING} seconds to reach the bottom of the page.`
+)
+
 // Scroll to bottom of page
 // Credit: https://www.alecjacobson.com/weblog/?p=758
 function scrollToBottom() {
@@ -10,12 +32,9 @@ function scrollToBottom() {
 }
 scrollToBottom()
 
-const WAIT_TIME_BEFORE_PROCESSING = 15
-const WAIT_TIME_BETWEEN_POSTS = 0.5
-// Wait 15 seconds for that to finish before moving on
-
 const titlesWithEarnings = []
 
+let maxWaitTime = 0
 new Promise((resolve) =>
   setTimeout(resolve, WAIT_TIME_BEFORE_PROCESSING * 1000)
 ).then(() => {
@@ -32,12 +51,17 @@ new Promise((resolve) =>
   Promise.all(
     urlsAsArray.map((url) => {
       return new Promise((resolve) => {
-        console.log(`Fetched post ${postCount}`)
-        postCount += 1
-        return setTimeout(
-          resolve,
-          WAIT_TIME_BETWEEN_POSTS * 1000 * (Math.random() + 0.5) * postCount
+        const waitTime =
+          WAIT_TIME_BETWEEN_POSTS * 1000 * (Math.random() + 0.5) * postCount +
+          WAIT_TIME_BEFORE_PROCESSING * 1000
+        maxWaitTime = waitTime > maxWaitTime ? waitTime : maxWaitTime
+        console.log(
+          `Queued post ${postCount}; expected total wait time of ${Math.floor(
+            maxWaitTime / 1000
+          )} seconds`
         )
+        postCount += 1
+        return setTimeout(resolve, waitTime)
       }).then(() => {
         return fetch(url)
       })
@@ -67,15 +91,15 @@ new Promise((resolve) =>
             : "Missing URL!"
           for (const h2 of htmlDocument.querySelectorAll("div.l h2")) {
             h2.textContent[0] === "$" &&
-              titlesWithEarnings.push(`${title},${h2.textContent},${url}`)
+              titlesWithEarnings.push(`${title}\t${h2.textContent}\t${url}`)
           }
         }
       })
     )
     .then(() => {
-      titlesWithEarnings.unshift("Article Title,Lifetime Earnings,URL") // Add a new line to the beginning
+      titlesWithEarnings.unshift("Article Title\tLifetime Earnings\tURL") // Add a new line to the beginning
       // titlesWithEarnings.push("\n") // Add a new line to the end
-      // Output the data as a .csv (comma separated list for Excel)
+      // Output the data as a .tsv (tab separated list for Excel)
       console.log(titlesWithEarnings.join("\n"))
     })
 })
